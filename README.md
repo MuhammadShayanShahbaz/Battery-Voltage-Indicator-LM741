@@ -1,4 +1,4 @@
-Battery Voltage Indicator (LM741)
+# Battery Voltage Indicator (LM741)
 An analog battery voltage monitor built using LM741 operational amplifiers and discrete components. This project uses op-amps in comparator mode to provide real-time visual feedback on battery health via color-coded LEDs.
 Author: Muhammad Shayan Shahbaz
 Software: Proteus
